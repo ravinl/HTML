@@ -60,3 +60,58 @@ Page Content.........
 => Performance delay. - It will first guess the charset, but if it found the charset later: - It will discard all the previous changes and translate as per the new charset once again which will cause delay.
 
 => Security Vulnerabilities - Delay or missing charset declaration can expose your site to cross-code-site scripting (XSS) attack.
+
+# Portfolio
+
+## Navbar
+
+- Home
+- Education
+- Skills
+- Projects
+- Articles
+- Contact Me
+
+## Home
+
+- Name
+- Position
+- Self Introduction
+- Buttons
+  - Explore Projects
+  - Download Resume
+- Portrait
+
+## Education
+
+- Bachelor Of Technology
+- Intermediate
+- Matriculation
+
+## Skills
+
+- Computer Science Fundamentals
+- Frontend
+- Backend
+- Database
+- Artificial Intelligence
+
+## Projects
+
+- Sampurna oil web app
+- Sampurna jal web app
+
+## Articles
+
+1.  How meta tags used in HTML
+2.  How colors used in CSS
+3.  How DOM works in JavaScript
+
+## Contact
+
+- Phone
+- Email
+
+## Footer
+
+- Copyright information
