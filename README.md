@@ -118,36 +118,44 @@ Page Content.........
 
 # Portfolio-V1.0.1
 
-<body>
-│
-├── <header>
-│   └── <nav>
-│
-├── <main>
-│   │
-│   ├── <section> Home
-│   │
-│   ├── <section> Education
-│   │   ├── <article> B-Tech
-│   │   ├── <article> Intermediate
-│   │   └── <article> Matriculation
-│   │
-│   ├── <section> Skills
-│   │   ├── <article> Fundamental of computer
-│   │   └── <article> Web development
-│   │
-│   ├── <section> Projects
-│   │   ├── <article> Sampurna Oil
-│   │   └── <article> Sampurna Jal
-│   │
-│   ├── <section> My Articles
-│   │   └── <article> Use of meta tag in HTMl
-│   │
-│   └── <section> Contact Me
-│       ├── <article> Meeting address
-│       │   └── <address>
-│       │
-│       └── <article> Query Form
-│           └── <form>
-│
-└── <footer>
+## header
+
+- nav
+
+## main
+
+### Section (Home)
+
+### Section (Education)
+
+#### article (B-Tech)
+
+#### article (Intermediate)
+
+#### article (Matriculation)
+
+### section (Skills)
+
+#### article (Fundamentals of Computer Science)
+
+#### article (Web development)
+
+### section (Projects)
+
+#### article (Sampurna Oil)
+
+#### article (Sampurna Jal)
+
+### section (My Articles)
+
+#### article (Use of meta tag in HTML)
+
+### section (Contact Me)
+
+#### article (Contact information)
+
+#### article (Query Form)
+
+## footer
+
+- copyright information & All Rights reserved
