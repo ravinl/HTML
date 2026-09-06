@@ -61,7 +61,7 @@ Page Content.........
 
 => Security Vulnerabilities - Delay or missing charset declaration can expose your site to cross-code-site scripting (XSS) attack.
 
-# Portfolio
+# Portfolio-V1.0.0
 
 ## Navbar
 
@@ -115,3 +115,39 @@ Page Content.........
 ## Footer
 
 - Copyright information
+
+# Portfolio-V1.0.1
+
+<body>
+│
+├── <header>
+│   └── <nav>
+│
+├── <main>
+│   │
+│   ├── <section> Home
+│   │
+│   ├── <section> Education
+│   │   ├── <article> B-Tech
+│   │   ├── <article> Intermediate
+│   │   └── <article> Matriculation
+│   │
+│   ├── <section> Skills
+│   │   ├── <article> Fundamental of computer
+│   │   └── <article> Web development
+│   │
+│   ├── <section> Projects
+│   │   ├── <article> Sampurna Oil
+│   │   └── <article> Sampurna Jal
+│   │
+│   ├── <section> My Articles
+│   │   └── <article> Use of meta tag in HTMl
+│   │
+│   └── <section> Contact Me
+│       ├── <article> Meeting address
+│       │   └── <address>
+│       │
+│       └── <article> Query Form
+│           └── <form>
+│
+└── <footer>
